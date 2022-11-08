@@ -1,0 +1,43 @@
+:root{
+   --background: rgb(246, 195, 133) ;
+}
+ 
+
+
+.side-left{
+    padding: 1vh;
+}
+
+.post-box img {
+     height: 68px;
+     width: 68px;
+     border-radius: 50%;
+     margin: 0.8vh 0.5vh ;
+}
+.post-box input{
+    width: 49vh;
+    padding:1vh;
+    border-radius: 20vh;
+}
+.post-box{
+    margin: 2vh 0vh;
+}
+
+.post-box div {
+    margin: 10px;
+    justify-content: space-evenly;
+    font-size: 1.2rem;
+}
+.fashion-box{
+    padding: 1vh;
+}
+.post-end div{
+    margin: 0 2vh;
+    padding: 1vh;
+}
+.follow{
+    padding: 0.5vh;
+    border-radius: 30vh;
+    justify-content:space-evenly;
+    text-align: center;
+}

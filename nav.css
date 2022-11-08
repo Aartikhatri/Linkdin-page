@@ -1,0 +1,28 @@
+.header_right{
+    justify-content: right;
+    margin-top: 0px;
+}
+
+.item  a {
+    padding: 0.5vh;
+    margin: 0.2vh;
+    text-decoration: none;
+}
+.overlay-text{
+    position: relative;
+    bottom: 5vh;
+}
+.trainer img {
+    height: 95px;
+    width: 95px;
+   
+}
+.box{
+    height: 12vh;
+    background: linear-gradient( 45deg, rgb(221, 58, 58), rgb(245, 130, 149),rgb(237, 237, 9));
+    position: relative;
+}
+.trainer > .content{
+   text-align: center;
+    
+}
